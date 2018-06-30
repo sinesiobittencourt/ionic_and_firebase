@@ -64,6 +64,7 @@ fastlane/screenshots
 fastlane/test_output
 fastlane/readme.md
 
+#ionic_and_firebase
 config.xml
 ionic.config.json
 package.json
