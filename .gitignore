@@ -70,6 +70,8 @@ ionic.config.json
 package.json
 tsconfig.json
 tslint.json
+
+.vscode/
 src/config.ts
 node_modules
 www/
