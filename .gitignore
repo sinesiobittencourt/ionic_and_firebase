@@ -63,3 +63,12 @@ fastlane/Preview.html
 fastlane/screenshots
 fastlane/test_output
 fastlane/readme.md
+
+config.xml
+ionic.config.json
+package.json
+tsconfig.json
+tslint.json
+src/config.ts
+node_modules
+www/
