@@ -2,8 +2,6 @@ import { Injectable } from '@angular/core';
 // import { Http } from '@angular/http';
 import 'rxjs/add/operator/map';
 
-
-// ÍNICIO
 // Imports que deverão ser adicionados
 import { Observable } from 'rxjs/Observable';
 import { AngularFireAuth } from 'angularfire2/auth';
